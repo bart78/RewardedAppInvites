@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RewardedAppInvite_Sender</string>
+    <string name="action_settings">Settings</string>
+    <string name="invitation_title">Test Invitation</string>
+    <string name="invitation_message">Hi, Please test this rewarded app invite!</string>
+    <string name="invitation_deep_link">http://bpj.io/invite?userid=123456</string>
+    <string name="invitation_custom_image">http://pix.iemoji.com/phan33/0474.png</string>
+    <string name="invitation_cta">Invite!</string>
+</resources>

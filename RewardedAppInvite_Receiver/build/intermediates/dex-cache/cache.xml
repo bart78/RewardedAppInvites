@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_38f1c53b5b27d38bbed4fe70166caac8bd381cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_04b5e8759a899335516a1326f0de49012a67565c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_5fc18a79181996dbf4b4d5bd8d6003ed2689a200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_3491d5562210bfc93c3f686b087395103c6d827e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.0_34d1e1784067c581b2214fb1d13dec056e0525df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_389f1dbbd49d37a82991294d7d9d2b33c5190263/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_87396a7c676ab579a4d230c36e1a3883c859a1d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_cf00a235e1af4ccb2488d333a1c12b43a5e094d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.0_ebd0b030dfe8b5384625a014a0726c4acc5c0c40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.0_d841fa4bafd6eee1dcf6583eb8f4d62faa7813b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_67db9fa27b5914f2f487f81721dba1ac4ec52419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd2094576d84c78f8b4a1afff4ef703252c2c8fd">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_59532f1c1a2156142ebe78a8bde02a0747e3e68b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_3b53c50ed2a4a3e0149efea8514fa5e2955d7914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_78fa6065364f80501aa09336754d6a18252602d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9993a6c1fe165ad595c0c035140e044b6703a231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e928108eb713fbcc0ea7ededd886be7e9ae662c">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_485da9e9ddededfaba727a602b0230a468dd084d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_369e82f8c339830057979798bbe9ed5b7b05f101/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_28a174fc272f432439ef6f5ac763e73ac6dd03ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_48759d41180b990f6fe43c38ecd344839aa88ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_101da520778b9184be29936f6cd0ae8dc07332c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_1281df37d4a6d0814ec97c15a811ed728e601518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4b12ec9bff39560da830ffe7a1e7b189d5a3b341/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/bpj/AndroidStudioProjects/RewardedAppInvite_Receiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_e2825252eaa933e188916b1c5667f9c35f02bc94/classes.dex" />
+    </item>
+
+</items>
