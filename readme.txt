@@ -8,7 +8,7 @@ the invite to install the app with an arbitrary amout of in-app currency.
 
 The 'Sender' app sends an invite (Email) to a user-selected list ofrecipients, inviting them
 to install a second (presumably related)app, though sending invites targeting the current app
-can also beeasily done by implementing deep links (as in the 'Receiver' app)and modifying the
+can also be easily done by implementing deep links (as in the 'Receiver' app) and modifying the
 deep link url to point to the current app.
 
 The key is the Deep Link URL that includes the sender's user ID so they can recieve some reward
