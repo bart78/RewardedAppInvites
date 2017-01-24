@@ -19,9 +19,9 @@ The 'Reciever' app implements an activity which serves as a 'landing page' for i
 that handles incentivizing both the sender and the recipient of the invite.  The main task is to
 correctly implement deep links.
 
-The actual reward and tracking mechanism (not implemented) needs a server component to store data tha
-t both apps can access, however there are some easy options: if both apps are under the same Firebase
-project, they can share the same Firebase Realtime DBwhich can fill this role.  I also suggest using
+The actual reward and tracking mechanism (not implemented) needs a server component to store data that
+both apps can access, however there are some easy options: if both apps are under the same Firebase 
+project, they can share the same Firebase Realtime DBwhich can fill this role.  I also suggest using 
 Firebase Remote Config to handle setting reward parameters so that they can easily be changed later.
 
 
